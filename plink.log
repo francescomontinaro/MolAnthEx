@@ -1,0 +1,14 @@
+PLINK v1.90b6.22 64-bit (16 Apr 2021)
+Options in effect:
+  --bfile GreSalVL_b37_AllelesUpdatedNewMap
+  --recode GreSalVL_b37_AllelesUpdatedNewMap
+
+Hostname: francesco-latitudee6540
+Working directory: /home/francesco/Dropbox/Corsi/Antropologia_Molecolare_e_genetica_delle_dipendenze/MolAnthEx
+Start time: Thu May 27 17:25:46 2021
+
+Error: Invalid --recode parameter 'GreSalVL_b37_AllelesUpdatedNewMap'. (Did you
+forget '--out'?)
+For more information, try "plink --help <flag name>" or "plink --help | more".
+
+End time: Thu May 27 17:25:46 2021
